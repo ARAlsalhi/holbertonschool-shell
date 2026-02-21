@@ -9,3 +9,4 @@ I/O Redirections and Filters
 5-firstlines: displays the first 10 lines of /etc/passwd
 6-third_line: displays the third line of iacta
 8-cwd_state: saves the result of ls -la into ls_cwd_content
+9-duplicate_last_line: duplicates the last line of iacta
