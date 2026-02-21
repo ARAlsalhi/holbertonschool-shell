@@ -18,3 +18,4 @@ I/O Redirections and Filters
 12-newest_files: displays the 10 newest files
 13-unique: prints words that appear exactly once
 14-findthatword: displays lines containing root from /etc/passwd
+15-countthatword: counts lines containing bin in /etc/passwd
