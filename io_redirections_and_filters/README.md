@@ -19,3 +19,4 @@ I/O Redirections and Filters
 13-unique: prints words that appear exactly once
 14-findthatword: displays lines containing root from /etc/passwd
 15-countthatword: counts lines containing bin in /etc/passwd
+16-whatsnext: displays lines containing root and 3 lines after
