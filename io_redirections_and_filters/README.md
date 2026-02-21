@@ -25,3 +25,4 @@ I/O Redirections and Filters
 19-AZ: replaces A with Z and c with e
 20-hiago: removes letters c and C from input
 21-reverse: reverses its input
+22-users_and_homes: displays users and home directories sorted
