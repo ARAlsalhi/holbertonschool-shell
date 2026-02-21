@@ -21,3 +21,4 @@ I/O Redirections and Filters
 15-countthatword: counts lines containing bin in /etc/passwd
 16-whatsnext: displays lines containing root and 3 lines after
 17-hidethisword: displays lines not containing bin
+18-letteronly: displays lines starting with a letter
