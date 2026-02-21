@@ -22,3 +22,4 @@ I/O Redirections and Filters
 16-whatsnext: displays lines containing root and 3 lines after
 17-hidethisword: displays lines not containing bin
 18-letteronly: displays lines starting with a letter
+19-AZ: replaces A with Z and c with e
