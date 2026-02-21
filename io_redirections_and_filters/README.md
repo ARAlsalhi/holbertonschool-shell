@@ -10,3 +10,4 @@ I/O Redirections and Filters
 6-third_line: displays the third line of iacta
 8-cwd_state: saves the result of ls -la into ls_cwd_content
 9-duplicate_last_line: duplicates the last line of iacta
+10-no_more_js: deletes all .js regular files recursively
