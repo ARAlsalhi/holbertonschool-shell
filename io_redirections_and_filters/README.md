@@ -23,3 +23,4 @@ I/O Redirections and Filters
 17-hidethisword: displays lines not containing bin
 18-letteronly: displays lines starting with a letter
 19-AZ: replaces A with Z and c with e
+20-hiago: removes letters c and C from input
