@@ -13,3 +13,6 @@ I/O Redirections and Filters
 10-no_more_js: deletes all .js regular files recursively
 11-directories: counts directories and subdirectories
 11-directories: counts directories and subdirectories
+12-newest_files: displays the 10 newest files
+12-newest_files: displays the 10 newest files
+12-newest_files: displays the 10 newest files
