@@ -4,3 +4,4 @@ I/O Redirections and Filters
 
 1-confused_smiley: displays "(Ôo)'
 2-hellofile: displays the content of /etc/passwd
+3-twofiles: displays /etc/passwd and /etc/hosts
