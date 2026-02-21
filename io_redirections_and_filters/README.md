@@ -20,3 +20,4 @@ I/O Redirections and Filters
 14-findthatword: displays lines containing root from /etc/passwd
 15-countthatword: counts lines containing bin in /etc/passwd
 16-whatsnext: displays lines containing root and 3 lines after
+17-hidethisword: displays lines not containing bin
